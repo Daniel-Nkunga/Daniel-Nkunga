@@ -1,4 +1,4 @@
-## Hello! My name is Daniel Nkunga 
+## 🦦 Hello! My name is Daniel Nkunga 
 
 - **Pronouns**: he/him
 - **Education**: Honors University of Arkansas Fayetteville | Bachelor of Computer Science (2025-2028) 
