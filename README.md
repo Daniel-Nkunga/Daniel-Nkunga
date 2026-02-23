@@ -1,8 +1,8 @@
 ## Hello! My name is Daniel Nkunga 
 
-- Pronouns: he/him
-- Education: Honors University of Arkansas Fayetteville | Bachelor of Computer Science (2025-2028) 
-  - Previous:
+- **Pronouns**: he/him
+- **Education**: Honors University of Arkansas Fayetteville | Bachelor of Computer Science (2025-2028) 
+  - _Previous_:
     - Arkansas School of Mathematics, Sciences, and the Arts | High School Diploma (2022-2024)
     - University of Missouri Science and Technology | Bachelor of Computer Science [Transfered] (2024-2025)
     - University of Arkansas Fort Smith | Concurrent Credit (2022-2024)
